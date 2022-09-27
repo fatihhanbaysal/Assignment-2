@@ -4,28 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceed82e0-f708-42da-a28d-8fb443676f18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homeworks/javas/methods/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/javas/methods2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/javas/overriding/AgricultureCreditManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/javas/overriding/BaseCreditManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/javas/overriding/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/javas/overriding/StudentCreditManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/javas/overriding/TeacherCreditManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/javas/polymorphism/BaseLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/javas/polymorphism/ConsoleLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/javas/polymorphism/CustomerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/javas/polymorphism/DatabaseLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/javas/polymorphism/EmailLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/javas/polymorphism/FileLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/javas/polymorphism/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/javas/classes/CustomerManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/javas/classes/CustomerManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/javas/classes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/javas/classes/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/javas/classeswithattributes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/javas/classeswithattributes/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/javas/classeswithattributes/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/javas/classeswithattributes/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/javas/classeswithattributes/ProductManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/javas/classeswithattributes/ProductManager.java" afterDir="false" />
+    <list default="true" id="ceed82e0-f708-42da-a28d-8fb443676f18" name="Changes" comment="homework2 commit">
+      <change afterPath="$PROJECT_DIR$/src/homeworks/javas/inheritance/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/javas/inheritance/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/javas/inheritance/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/javas/inheritance/EmployeeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/javas/inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/javas/inheritance/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/javas/inheritance/PersonManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/javas/methodoverloading/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/javas/methodoverloading/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,8 +79,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664316363526</updated>
-      <workItem from="1664316364755" duration="2101000" />
+      <workItem from="1664316364755" duration="2405000" />
     </task>
+    <task id="LOCAL-00001" summary="homework2 commit">
+      <created>1664318512400</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664318512400</updated>
+    </task>
+    <task id="LOCAL-00002" summary="homework2 commit">
+      <created>1664318631014</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664318631014</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,5 +111,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework2 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework2 commit" />
   </component>
 </project>
